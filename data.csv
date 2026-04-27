@@ -1,0 +1,9 @@
+Sport,Weather,Wind,Humidity,RainChance,Sky,Time,Temperature,Ground,Visibility,Play
+Cricket,Sunny,Low,Low,No,Clear,Afternoon,High,Dry,Clear,Yes
+Cricket,Rainy,Strong,High,Yes,Cloudy,Evening,Low,Wet,Foggy,No
+Hockey,Sunny,Low,Low,No,Clear,Afternoon,Medium,Dry,Clear,Yes
+Hockey,Rainy,Strong,High,Yes,Cloudy,Evening,Low,Wet,Foggy,No
+Cricket,Cloudy,Low,High,Yes,Cloudy,Evening,Medium,Wet,Clear,No
+Hockey,Cloudy,Low,Medium,No,Cloudy,Afternoon,Medium,Dry,Clear,Yes
+Cricket,Sunny,Strong,Medium,No,Clear,Afternoon,High,Dry,Clear,Yes
+Hockey,Rainy,Strong,High,Yes,Cloudy,Afternoon,Low,Wet,Foggy,No
